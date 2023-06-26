@@ -1,0 +1,49 @@
+[33mcommit 0aa1cc3daaeb61427f1e3f565d41cacf2c911113[m[33m ([m[1;36mHEAD -> [m[1;32mb-test[m[33m, [m[1;31morigin/b-test[m[33m)[m
+Author: betawins <irfchicago@gmail.com>
+Date:   Mon Jun 26 01:35:11 2023 -0500
+
+    updated
+
+[33mcommit 1d446c087bba587862abd21cdfa12406eb94af4d[m
+Author: betawins <irfchicago@gmail.com>
+Date:   Mon Jun 26 01:12:47 2023 -0500
+
+    Revert "added a feature"
+    
+    This reverts commit ca12804e38172e03c13ed96c02a28f05b694102a.
+
+[33mcommit ca12804e38172e03c13ed96c02a28f05b694102a[m
+Author: betawins <irfchicago@gmail.com>
+Date:   Mon Jun 26 01:10:43 2023 -0500
+
+    added a feature
+
+[33mcommit 89290db325fd3da0a1fcff844b9f54e7e8175c95[m
+Author: betawins <irfchicago@gmail.com>
+Date:   Mon Jun 26 00:51:32 2023 -0500
+
+     new commit
+
+[33mcommit 5e0dc08442267e3ea131e95d8971620512cc3ead[m
+Author: betawins <irfchicago@gmail.com>
+Date:   Mon Jun 26 00:36:22 2023 -0500
+
+     ignored
+
+[33mcommit eba970d72a2000fb512880b45d67065f98de9559[m
+Author: betawins <test@gmail.com>
+Date:   Sun Jun 25 22:37:19 2023 -0500
+
+    added newfile
+
+[33mcommit f9e7e7ab3c9839d8b3ea441e2e48c3a1ba0887eb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: betawins <test@gmail.com>
+Date:   Sun Jun 25 22:15:49 2023 -0500
+
+    Added 2 files
+
+[33mcommit cd7aa4a4c0b36e21ffd45b2fbd1f63a48b82aab1[m
+Author: irfdevops <137393551+irfdevops@users.noreply.github.com>
+Date:   Sun Jun 25 22:01:19 2023 -0500
+
+    Initial commit
